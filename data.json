@@ -1,37 +1,30 @@
-{
-  "products" : {
-    "product1" : {
-      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-phoneauthexample-25d16.appspot.com/o/images%2Fmacbook.jpg?alt=media&token=b67b32ad-2b49-4d84-9566-dda411c96f3e",
-      "price" : 56990,
-      "rating" : 4.7,
-      "shortdesc" : "13.3 Inch, 256GB",
-      "title" : "Apple Macbook Air Core i5 5th Gen"
-    },
-    "product2" : {
-      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-phoneauthexample-25d16.appspot.com/o/images%2Fdellinspiron.jpg?alt=media&token=4a6439f6-98a6-48c2-9deb-86330f7496d0",
-      "price" : 66990,
-      "rating" : 4.7,
-      "shortdesc" : "15.6 Inch, 256GB",
-      "title" : "Dell Inspiron i5 5th Gen"
-    },
-    "product3" : {
-      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-phoneauthexample-25d16.appspot.com/o/images%2Fsurface.jpg?alt=media&token=df43c0b3-3799-4f79-9168-afde9c3344a8",
-      "price" : 60000,
-      "rating" : 4.7,
-      "shortdesc" : "13.3 Inch, 256GB",
-      "title" : "Surface Core i5 5th Gen"
-    }
-  },
-  "reviews" : {
-    "product1" : {
-      "review1" : {
-        "comment" : "Awesome product",
-        "username" : "Belal Khan"
-      },
-      "review2" : {
-        "comment" : "Must Buy",
-        "username" : "Sunny"
-      }
-    }
-  }
-}
+[
+        {
+            "name": "product 1",
+            "description": "demo short description.",
+            "Rating": "8.16",
+            "episode": 500,
+            "categorie":"categorie 1",
+            "price":"Studio Pierrot",
+            "img": "https://images.pexels.com/photos/913135/pexels-photo-913135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+            "name": "product 2",
+            "description": "demo short description.",
+            "Rating": "8.54",
+            "episode": 700,
+             "categorie":"categorie 2",
+            "price":"Toei Animation",
+            "img": "https://images.pexels.com/photos/913135/pexels-photo-913135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        },
+        {
+            "name": "product 3",
+            "description": "demo description.",
+            "Rating": "9.11",
+            "episode": 148,
+            "categorie":"categorie 3",
+            "price":"Madhouse",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+        }
+
+    ]
