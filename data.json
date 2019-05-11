@@ -1,27 +1,24 @@
 [
         {
-            "name": "product 1",
-            "description": "demo short description.",
+            "title": "product 1",
+            "shortDesc": "demo short description.",
             "Rating": "8.16",
-            "episode": 500,
             "categorie":"categorie 1",
             "price":"Studio Pierrot",
             "img": "https://images.pexels.com/photos/913135/pexels-photo-913135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
         },
         {
             "name": "product 2",
-            "description": "demo short description.",
+            "shortDesc": "demo short description.",
             "Rating": "8.54",
-            "episode": 700,
-             "categorie":"categorie 2",
+            "categorie":"categorie 2",
             "price":"Toei Animation",
             "img": "https://images.pexels.com/photos/913135/pexels-photo-913135.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
         },
         {
             "name": "product 3",
-            "description": "demo description.",
+            "shortDesc": "demo description.",
             "Rating": "9.11",
-            "episode": 148,
             "categorie":"categorie 3",
             "price":"Madhouse",
             "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
