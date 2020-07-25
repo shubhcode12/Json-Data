@@ -2,8 +2,8 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=",
   "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "Rage Face",
+      "identifier": "",
+      "name": "Taffy Cat 1",
       "publisher": "Shubhankar Mahajan",
       "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
       "publisher_email":"smtech.developers@gmail.com",
@@ -12,7 +12,7 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_04_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
@@ -20,21 +20,22 @@
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
           "emojis": ["ðŸ™‚"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_05_thub.png",
-          "emojis": ["ðŸ™‚"]
-        },
-         {
-          "image_file": "https://raw.githubusercontent.com/shubhcode12/Json-Data/master/blonde_rage_quiet.png",
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
           "emojis": ["ðŸ™‚"]
         }
+        ,{
+          "image_file": "https://raw.githubusercontent.com/viztushar/Urban/master/thub5/DopeWalls_v162_06_thub.png",
+          "emojis": ["ðŸ™‚"]
+        }
+        
       ]
     },
     {
