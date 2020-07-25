@@ -2,7 +2,7 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=",
   "sticker_packs": [
     {
-      "identifier": "",
+      "identifier": "1",
       "name": "Taffy Cat 1",
       "publisher": "Shubhankar Mahajan",
       "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
